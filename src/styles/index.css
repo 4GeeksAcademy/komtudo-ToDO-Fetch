@@ -10,3 +10,35 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.336);
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 4px 4px 4px 4px rgb(155, 155, 155);
+    padding-bottom: 15px;
+  }
+  body {
+    margin-top: 100px;
+  }
+  ul li {
+    border: 1px solid gray;
+    list-style: none;
+    padding: 5px;
+  }
+  h1 {
+    text-align: center;
+  }
+  input {
+    border: nobe;
+    width: 100%;
+  }
+  ul {
+    padding: 0;
+    margin-bottom: 0;
+  }
+  
+ 
+
+ 
+  
+  
